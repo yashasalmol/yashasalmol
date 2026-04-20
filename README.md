@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Yash 👋<br><br>🎓 Aspiring Data Scientist<br>💻 Skilled in Python, SQL, and Machine Learning<br>📍 Pune, India<br><br>---<br><br>## 🚀 About Me<br><br>I am a fresher passionate about Data Science and software development.<br>I enjoy building real-world projects and continuously improving my skills.<br><br>---<br><br>## 🛠️ Skills<br><br>* Python<br>* SQL<br>* Machine Learning<br>* HTML, CSS, JavaScript<br>* Django<br><br>---<br><br>## 📂 Projects<br><br>* 🔹 Tic Tac Toe (JavaScript)<br>* 🔹 Task Manager (Django)<br>* 🔹 Fake News Detection (NLP)<br>* 🔹 Weather Classification (ML)<br>* 🔹 Healthcare Management System (SQL)<br><br>---<br><br>## 📈 Currently Learning<br><br>* Advanced Machine Learning<br>* Data Analysis<br>* Real-world project building<br><br>---<br><br>## 📫 Connect With Me<br><br>* LinkedIn: https://linkedin.com/in/your-link<br>
+# Hi, I'm Yash 👋<br><br>🎓 Aspiring Data Scientist<br>💻 Skilled in Python, SQL, and Machine Learning<br>📍 Pune, India<br><br>🚀 About Me<br><br>I am a fresher passionate about Data Science and software development.<br>I enjoy building real-world projects and continuously improving my skills.<br>
 
 
 ## 🌐 Socials:
