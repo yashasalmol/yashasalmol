@@ -149,9 +149,13 @@ Python application demonstrating OOP, file handling and application logic.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasalmol&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=8A5CF6&icon_color=8A5CF6" alt="GitHub Stats" />
+<img height="180"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashasalmol&theme=github_dark&animation=load"
+     alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasalmol&layout=compact&hide_border=true&theme=transparent&title_color=8A5CF6" alt="Top Languages" />
+<img height="180"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashasalmol&theme=github_dark&animation=load"
+     alt="Top Languages" />
 
 </div>
 
