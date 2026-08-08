@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E83,50:6C3FD1,100:8A5CF6&height=220&section=header&text=YASH%20ASALMOL&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-# Hi 👋, I'm Yash Asalmol
-
-### Python Developer • Data Analyst • Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8A5CF6&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;Machine+Learning+Enthusiast;SQL+%7C+Power+BI+%7C+Python;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
 
